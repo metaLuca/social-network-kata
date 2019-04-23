@@ -2,6 +2,8 @@
 
 <img src="http://kata-log.rocks/images/social_network.jpg" height="20px" width="20px" alt="cover"/>
 
+kata from [kata-log.rocks](http://kata-log.rocks/social-network-kata)
+
 ## Your Backlog
 **Posting:** Alice can publish messages to a personal timeline
 
